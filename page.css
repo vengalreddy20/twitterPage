@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.twi{
+    background-color: black;
+    color: white;
+    width:50%;
+    height:400px;
+    padding: 20px;
+    float:right;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.twi1{
+    height: 30px;
+    width: 200px;
+    background-color:blue;
+    color: white;
+    border-radius: 50px;
+    border: 1px blue solid ;
+}
+.twi2{
+    height: 30px;
+    width: 200px;
+    background-color:black;
+    color: blue;
+    border-radius: 50px;
+    border: 1px blue;
+    border-style: solid;
+}
+.twi3{
+    font-size:x-small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+    
+}
